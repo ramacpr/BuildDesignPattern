@@ -1,2 +1,2 @@
 # BuildDesignPattern
-Build design pattern
+Builder design pattern
