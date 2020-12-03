@@ -1,0 +1,7 @@
+D:\Projects\DesignPatterns\CSharp\HelloBuilder\HelloBuilder\bin\Debug\HelloBuilder.exe.config
+D:\Projects\DesignPatterns\CSharp\HelloBuilder\HelloBuilder\bin\Debug\HelloBuilder.exe
+D:\Projects\DesignPatterns\CSharp\HelloBuilder\HelloBuilder\bin\Debug\HelloBuilder.pdb
+D:\Projects\DesignPatterns\CSharp\HelloBuilder\HelloBuilder\obj\Debug\HelloBuilder.csprojAssemblyReference.cache
+D:\Projects\DesignPatterns\CSharp\HelloBuilder\HelloBuilder\obj\Debug\HelloBuilder.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatterns\CSharp\HelloBuilder\HelloBuilder\obj\Debug\HelloBuilder.exe
+D:\Projects\DesignPatterns\CSharp\HelloBuilder\HelloBuilder\obj\Debug\HelloBuilder.pdb
